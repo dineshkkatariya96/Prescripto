@@ -69,7 +69,7 @@ const loginAdmin = async(req,res) => {
     try{
         const {email,password} = req.body;
 
-        // console.log("email and password : ",email,password);
+        console.log("email and password : ",email,password);
 
         if(!email || !password){
             return res.json({success: false,message: "Missing details"});

@@ -60,7 +60,7 @@ function Footer() {
         </div>
         <hr className='bg-gray-300 h-1 w-full'/>
         <p className='text-center mt-8'>
-            Copyright © 2024 GreatStack - All Right Reserved.
+            Copyright © 2025 Dinesh Katariya - All Right Reserved.
         </p>
     </div>
   )
